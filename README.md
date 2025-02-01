@@ -1,6 +1,4 @@
-Sure! Here’s a more detailed version of the README for your ShoppyGlobe project, including additional information and tailored to your GitHub link:
 
----
 
 # [ShoppyGlobe - An E-commerce Website](https://github.com/sujoyghosal2003/My-EcommerceApp)
 
